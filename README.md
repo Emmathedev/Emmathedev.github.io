@@ -1,4 +1,3 @@
 # Emmathedev.github.io
 
-CV numérique et github page.
-Bug sur une image à régler
+CV numérique et github page. avec bootstrap
